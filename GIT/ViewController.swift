@@ -29,5 +29,7 @@ class ViewController: UIViewController {
     */
     
     //fix bugs
+    
+    //Appstore 2
 }
 
